@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Graphs, BBQ and other stuff that's cool + nerdy.
 twitter_username: sumptersmartt
 github_username: sumptersmartt
-minimal_mistakes_skin: default
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
