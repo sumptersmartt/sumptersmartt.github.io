@@ -60,9 +60,9 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Just a DevOpsDad trying to shift left or something."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-square"
+      url: "https://linkedin.com/in/sumptersmartt"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/sumptersmartt"
@@ -73,17 +73,17 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
 
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+# footer:
+#   links:
+#     - label: "Twitter"
+#       icon: "fab fa-fw fa-twitter-square"
+#       url: "https://twitter.com/"
+#     - label: "GitHub"
+#       icon: "fab fa-fw fa-github"
+#       url: "https://github.com/"
+#     - label: "Instagram"
+#       icon: "fab fa-fw fa-instagram"
+#       url: "https://instagram.com/"
 
 defaults:
   # _posts
