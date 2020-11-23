@@ -1,6 +1,6 @@
 ---
 title: "Smoker Automation and Monitoring Part 2"
-date: 2019-12-06T17:00:00-04:00
+date: 2020-11-23T17:00:00-04:00
 categories:
   - dadOps
 tags:
