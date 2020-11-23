@@ -101,7 +101,7 @@ Click finish and then click on the configuration you just created. A long config
 ```
 paste that directly underneath the `omit_hostname = false` line in the telegraf.conf file you modified earlier, and restart telegraf and rtl_433. `sudo service telegraf restart && sudo service rtl_433 restart`. At this point you should be collecting data in influx cloud. In your browser, go back to the InfluxDB dashboard and select Data on the far left, then select buckets. Click on the bucket you created and you should see some data in the bucket you created. What you see will depend on your antenna system as well as what kinds of sensors are nearby.
 
-[![InfluxCloud] (/assets/images/InfluxCloud-1.png)](/assets/images/InfluxCloud-1.png)
+[![InfluxCloud](/assets/images/InfluxCloud-1.png)](/assets/images/InfluxCloud-1.png)
 
 Congratulations! You're now feeding data into the cloud from your Raspberry Pi. I'll be adding another post in the next day or two showing how I set up Grafana dashboards and Slack alerts like these.
 
