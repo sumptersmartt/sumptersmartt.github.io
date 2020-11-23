@@ -1,7 +1,8 @@
 ---
 title: "Smoker Automation v2: To The Cloud"
 header:
- og_image: /assets/images/slack.jpg
+ og_image: /assets/images/slack-big.jpg
+ og_description: The cloud is just someone else's computer.
 date: 2020-11-23T17:00:00-04:00
 categories:
   - dadOps
@@ -19,6 +20,7 @@ tags:
   - influxdb
   - cloud
 ---
+
 ### Overview
 Since my last post nearly a year ago, I have made some major changes to my BBQ monitoring stack. In order to minimize the overhead of running Grafana and InfluxDB locally, I've created free instances of both. There are obviously some limitations, Grafana limits the number of dashboards and InfluxData limits the number and type of alerts, and drops all measurements after 30 days. For our purposes, that's totally fine. The following sections are organized based on the flow of data from the thermometer up the stack.  
 
