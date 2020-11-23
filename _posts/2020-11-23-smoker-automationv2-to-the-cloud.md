@@ -1,5 +1,5 @@
 ---
-title: "Smoker Automation and Monitoring Part 2"
+title: "Smoker Automation v2: To The Cloud"
 date: 2020-11-23T17:00:00-04:00
 categories:
   - dadOps
