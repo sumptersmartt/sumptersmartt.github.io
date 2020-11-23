@@ -16,8 +16,8 @@ tags:
   - weber
   - influxdb
   - cloud
-image: slack.jpg
-description: Let's build a cloud-based monitoring stack for our smoker. It's 2020, why not?
+header:
+ og_image: slack.jpg
 ---
 ### Overview
 Since my last post nearly a year ago, I have made some major changes to my BBQ monitoring stack. In order to minimize the overhead of running Grafana and InfluxDB locally, I've created free instances of both. There are obviously some limitations, Grafana limits the number of dashboards and InfluxData limits the number and type of alerts, and drops all measurements after 30 days. For our purposes, that's totally fine. The following sections are organized based on the flow of data from the thermometer up the stack.  
