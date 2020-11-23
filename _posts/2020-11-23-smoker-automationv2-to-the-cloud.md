@@ -2,7 +2,6 @@
 title: "Smoker Automation v2: To The Cloud"
 header:
  og_image: /assets/images/slack-big.jpg
- og_description: The cloud is just someone else's computer.
 date: 2020-11-23T17:00:00-04:00
 categories:
   - dadOps
